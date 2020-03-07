@@ -1,11 +1,7 @@
 package main
 
 import (
-	"build"
-	//"fmt"
-)
-
-import (
+	"github.com/lxzan/minepool-backend/build"
 	"github.com/jrick/bitset"
 	"math/big"
 	"os"

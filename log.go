@@ -1,7 +1,7 @@
 package main
 
 import (
-	"build"
+	"github.com/lxzan/minepool-backend/build"
 	"fmt"
 	"io"
 	"log"
