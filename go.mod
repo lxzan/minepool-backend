@@ -1,4 +1,4 @@
-module minepool-backend
+module "github.com/lxzan/minepool-backend"
 
 go 1.14
 
